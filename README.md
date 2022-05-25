@@ -1,1 +1,2 @@
 # myFirstRepository
+Some text added
